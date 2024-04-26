@@ -9,10 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ccb1e196c7c8d584c902ef98b34d19b7, type: 3}
-  m_Name: Item
+  m_Script: {fileID: 11500000, guid: 5b0d316339c28e340b526c14d91fa076, type: 3}
+  m_Name: "\u041B\u0435\u0431\u0451\u0434\u043A\u0430"
   m_EditorClassIdentifier: 
-  itemName: Name
-  itemDiscription: Discription
-  icon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  isTakeable: 1
+  itemName: 
+  itemDiscription: 
+  icon: {fileID: 0}
+  isTakeable: 0
+  items: []

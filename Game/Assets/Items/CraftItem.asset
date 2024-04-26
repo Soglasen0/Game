@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b0d316339c28e340b526c14d91fa076, type: 3}
+  m_Name: CraftItem
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemDiscription: 
+  icon: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  isTakeable: 0
+  items:
+  - {fileID: 11400000, guid: 298792dea55609146a9f7e4d0c3eb3db, type: 2}
+  - {fileID: 11400000, guid: fa7b7d1e804c9f24f84d807c8892b982, type: 2}
+  - {fileID: 11400000, guid: dcb5849381d46cb43beaec799f7694c0, type: 2}
