@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ccb1e196c7c8d584c902ef98b34d19b7, type: 3}
-  m_Name: "\u0420\u044B\u0447\u0430\u0433 \u043B\u0435\u0431\u0451\u0434\u043A\u0438"
+  m_Name: Carbine
   m_EditorClassIdentifier: 
   itemName: 
   itemDiscription: 
-  icon: {fileID: 21300000, guid: 65fd82c9a7803c74b98a62effa883ac0, type: 3}
+  icon: {fileID: 21300000, guid: aaf822c0f679a7241817f5023fbe460a, type: 3}
   isTakeable: 1

@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemName: 
   itemDiscription: 
-  icon: {fileID: 0}
-  isTakeable: 0
+  icon: {fileID: 21300000, guid: f9449ad3f10556446a58003ad34fc263, type: 3}
+  isTakeable: 1

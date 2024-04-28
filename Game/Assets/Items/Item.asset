@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccb1e196c7c8d584c902ef98b34d19b7, type: 3}
   m_Name: Item
   m_EditorClassIdentifier: 
-  itemName: Name
+  itemName: NameItem
   itemDiscription: Discription
   icon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
   isTakeable: 1

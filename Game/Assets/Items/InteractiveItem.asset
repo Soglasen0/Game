@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b42efca4f4044c44384e319a1ffa65fc, type: 3}
   m_Name: InteractiveItem
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDiscription: 
-  icon: {fileID: 0}
+  itemName: interactive item
+  itemDiscription: int it
+  icon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
   isTakeable: 0
+  item: {fileID: 11400000, guid: 298792dea55609146a9f7e4d0c3eb3db, type: 2}
